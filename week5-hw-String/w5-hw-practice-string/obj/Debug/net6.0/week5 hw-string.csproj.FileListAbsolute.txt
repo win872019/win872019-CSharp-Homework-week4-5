@@ -1,0 +1,30 @@
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5 hw-string\obj\Debug\net6.0\week5 hw-string.csproj.AssemblyReference.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5 hw-string\obj\Debug\net6.0\week5 hw-string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5 hw-string\obj\Debug\net6.0\week5 hw-string.AssemblyInfoInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5 hw-string\obj\Debug\net6.0\week5 hw-string.AssemblyInfo.cs
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5 hw-string\obj\Debug\net6.0\week5 hw-string.csproj.CoreCompileInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5 hw-string\bin\Debug\net6.0\week5 hw-string.exe
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5 hw-string\bin\Debug\net6.0\week5 hw-string.deps.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5 hw-string\bin\Debug\net6.0\week5 hw-string.runtimeconfig.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5 hw-string\bin\Debug\net6.0\week5 hw-string.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5 hw-string\bin\Debug\net6.0\week5 hw-string.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5 hw-string\obj\Debug\net6.0\week5 hw-string.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5 hw-string\obj\Debug\net6.0\refint\week5 hw-string.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5 hw-string\obj\Debug\net6.0\week5 hw-string.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5 hw-string\obj\Debug\net6.0\week5 hw-string.genruntimeconfig.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5 hw-string\obj\Debug\net6.0\ref\week5 hw-string.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-practice-string\bin\Debug\net6.0\week5 hw-string.exe
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-practice-string\bin\Debug\net6.0\week5 hw-string.deps.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-practice-string\bin\Debug\net6.0\week5 hw-string.runtimeconfig.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-practice-string\bin\Debug\net6.0\week5 hw-string.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-practice-string\bin\Debug\net6.0\week5 hw-string.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-practice-string\obj\Debug\net6.0\week5 hw-string.csproj.AssemblyReference.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-practice-string\obj\Debug\net6.0\week5 hw-string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-practice-string\obj\Debug\net6.0\week5 hw-string.AssemblyInfoInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-practice-string\obj\Debug\net6.0\week5 hw-string.AssemblyInfo.cs
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-practice-string\obj\Debug\net6.0\week5 hw-string.csproj.CoreCompileInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-practice-string\obj\Debug\net6.0\week5 hw-string.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-practice-string\obj\Debug\net6.0\refint\week5 hw-string.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-practice-string\obj\Debug\net6.0\week5 hw-string.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-practice-string\obj\Debug\net6.0\week5 hw-string.genruntimeconfig.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-practice-string\obj\Debug\net6.0\ref\week5 hw-string.dll

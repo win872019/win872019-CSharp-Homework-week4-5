@@ -1,0 +1,14 @@
+C:\Users\Chung\Desktop\C# Courses\C# homework\Week4-hw-Array\bin\Debug\net6.0\Week4-hw-Array.exe
+C:\Users\Chung\Desktop\C# Courses\C# homework\Week4-hw-Array\bin\Debug\net6.0\Week4-hw-Array.deps.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\Week4-hw-Array\bin\Debug\net6.0\Week4-hw-Array.runtimeconfig.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\Week4-hw-Array\bin\Debug\net6.0\Week4-hw-Array.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\Week4-hw-Array\bin\Debug\net6.0\Week4-hw-Array.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\Week4-hw-Array\obj\Debug\net6.0\Week4-hw-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chung\Desktop\C# Courses\C# homework\Week4-hw-Array\obj\Debug\net6.0\Week4-hw-Array.AssemblyInfoInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\Week4-hw-Array\obj\Debug\net6.0\Week4-hw-Array.AssemblyInfo.cs
+C:\Users\Chung\Desktop\C# Courses\C# homework\Week4-hw-Array\obj\Debug\net6.0\Week4-hw-Array.csproj.CoreCompileInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\Week4-hw-Array\obj\Debug\net6.0\Week4-hw-Array.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\Week4-hw-Array\obj\Debug\net6.0\refint\Week4-hw-Array.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\Week4-hw-Array\obj\Debug\net6.0\Week4-hw-Array.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\Week4-hw-Array\obj\Debug\net6.0\Week4-hw-Array.genruntimeconfig.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\Week4-hw-Array\obj\Debug\net6.0\ref\Week4-hw-Array.dll

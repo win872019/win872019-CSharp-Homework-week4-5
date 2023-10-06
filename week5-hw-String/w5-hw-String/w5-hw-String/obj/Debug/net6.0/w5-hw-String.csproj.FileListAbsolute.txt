@@ -1,0 +1,14 @@
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-String\w5-hw-String\bin\Debug\net6.0\w5-hw-String.exe
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-String\w5-hw-String\bin\Debug\net6.0\w5-hw-String.deps.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-String\w5-hw-String\bin\Debug\net6.0\w5-hw-String.runtimeconfig.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-String\w5-hw-String\bin\Debug\net6.0\w5-hw-String.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-String\w5-hw-String\bin\Debug\net6.0\w5-hw-String.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-String\w5-hw-String\obj\Debug\net6.0\w5-hw-String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-String\w5-hw-String\obj\Debug\net6.0\w5-hw-String.AssemblyInfoInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-String\w5-hw-String\obj\Debug\net6.0\w5-hw-String.AssemblyInfo.cs
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-String\w5-hw-String\obj\Debug\net6.0\w5-hw-String.csproj.CoreCompileInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-String\w5-hw-String\obj\Debug\net6.0\w5-hw-String.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-String\w5-hw-String\obj\Debug\net6.0\refint\w5-hw-String.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-String\w5-hw-String\obj\Debug\net6.0\w5-hw-String.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-String\w5-hw-String\obj\Debug\net6.0\w5-hw-String.genruntimeconfig.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week5-hw-String\w5-hw-String\w5-hw-String\obj\Debug\net6.0\ref\w5-hw-String.dll

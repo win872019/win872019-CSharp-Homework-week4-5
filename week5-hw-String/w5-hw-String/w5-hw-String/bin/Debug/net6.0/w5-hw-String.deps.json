@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "w5-hw-String/1.0.0": {
+        "runtime": {
+          "w5-hw-String.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "w5-hw-String/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
